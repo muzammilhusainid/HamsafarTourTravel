@@ -2,6 +2,7 @@ import React from "react";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
+import { FaWhatsapp } from "react-icons/fa";
 import logo from "../../assets/images/logo.jpg"; // apna logo path yahan import karo
 
 const Footer = () => {
@@ -31,7 +32,7 @@ const Footer = () => {
             <li><a href="/#" className="hover:text-green-500 transition">Disclaimer</a></li>
             <li><a href="/#" className="hover:text-green-500 transition">Privacy Policy</a></li>
             <li><a href="/#" className="hover:text-green-500 transition">Cancellation Policy</a></li>
-            <li><a href="https://www.lkouniv.ac.in/" target="blank" className="hover:text-green-500 transition">Terms & Conditions</a></li>
+            <li><a href="/#" className="hover:text-green-500 transition">Terms & Conditions</a></li>
           </ul>
         </div>
 
@@ -42,7 +43,7 @@ const Footer = () => {
           </h3>
           <ul className="space-y-2">
             <li><a href="/" className="hover:text-green-500 transition">Home</a></li>
-            <li><a href="/aboutPage" className="hover:text-green-500 transition">About Us</a></li>
+            <li><a href="#" className="hover:text-green-500 transition">About Us</a></li>
             <li><a href="#" target="blank" className="hover:text-green-500 transition">Best Packages</a></li>
             <li><a href="#" target="blank" className="hover:text-green-500 transition">Beautiful Destinations</a></li>
           </ul>
@@ -53,8 +54,8 @@ const Footer = () => {
           <h3 className="text-xl font-semibold mb-4 text-white border-b border-gray-700 pb-2">
             Contact
           </h3>
-          <p className="flex items-center gap-2"><IoMdCall /> +91-6306822532</p>
-          <p className="flex items-center gap-2"><IoMdCall /> +91-8081738387</p>
+          <p className="flex items-center gap-2"><IoMdCall /> +91-8896638315</p>
+          <p className="flex items-center gap-2"><FaWhatsapp /> +91-8115067010</p>
           <p className="flex items-center gap-2"><MdOutlineMail /> muzammil@gmail.com</p>
 
           {/* Social Icons */}
