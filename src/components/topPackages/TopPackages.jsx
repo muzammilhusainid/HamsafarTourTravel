@@ -7,19 +7,19 @@ import northeastImg from "../../assets/images/munnar.jpg";
 const TopPackages = () => {
   const packages = [
     {
-      title: "Manali Getaway",
+      title: "Adi Kailash Darshan",
       duration: "4 Days / 3 Nights",
       price: "₹12,999 per person",
       image: manaliImg,
     },
     {
-      title: "Shimla Holiday",
+      title: "Panchachuli Base Camp",
       duration: "5 Days / 4 Nights",
       price: "₹14,999 per person",
       image: shimlaImg,
     },
     {
-      title: "North East Escape",
+      title: "Kumaon Curcuit Dham",
       duration: "6 Days / 5 Nights",
       price: "₹18,999 per person",
       image: northeastImg,
