@@ -29,10 +29,10 @@ const Footer = () => {
             Important
           </h3>
           <ul className="space-y-2">
-            <li><a href="/#" className="hover:text-green-500 transition">Disclaimer</a></li>
-            <li><a href="/#" className="hover:text-green-500 transition">Privacy Policy</a></li>
-            <li><a href="/#" className="hover:text-green-500 transition">Cancellation Policy</a></li>
-            <li><a href="/#" className="hover:text-green-500 transition">Terms & Conditions</a></li>
+            <li><a href="#" className="hover:text-green-500 transition">Disclaimer</a></li>
+            <li><a href="#" className="hover:text-green-500 transition">Privacy Policy</a></li>
+            <li><a href="#" className="hover:text-green-500 transition">Cancellation Policy</a></li>
+            <li><a href="#" className="hover:text-green-500 transition">Terms & Conditions</a></li>
           </ul>
         </div>
 
