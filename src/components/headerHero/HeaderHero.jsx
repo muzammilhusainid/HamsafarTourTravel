@@ -2,7 +2,7 @@ import React from "react";
 import { FaLocationDot } from "react-icons/fa6";
 import { PiHandbagBold } from "react-icons/pi";
 import heroBg1 from "../../assets/images/hero-bg3.png";
-import logo from "../../assets/images/logo.jpg";
+import logo from "../../assets/images/ValleyvelsLogo.png";
 
 const HeaderHero = () => {
   return (
