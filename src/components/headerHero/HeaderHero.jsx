@@ -20,7 +20,7 @@ const HeaderHero = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img src={logo} alt="Hamsafar Logo" className="h-14 w-auto" />
-            <h1 className="text-2xl font-bold text-white">Hamsafar</h1>
+            <h1 className="text-2xl font-bold text-white">Valleyvels</h1>
           </div>
           {/* Menu */}
           <ul className="hidden md:flex space-x-6 font-medium text-lg text-white">
